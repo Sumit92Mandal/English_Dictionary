@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: salmon;
+}
+
+.container{
+    background-color: rgba(255, 255, 255, .3);
+    padding: 28px;
+    box-shadow: 0 10px 10px rgba(0,0,0, .3);
+    text-align: center;
+    width: 900px;
+    max-width: 450px;
+}
+
+.meaning-container{
+    /* background-color: aqua; */
+    display: none;
+
+}
